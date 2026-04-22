@@ -1,4 +1,5 @@
 Healthcare Waiting Time Dashboard
+
 📊 Project Overview
 
 This project was developed as part of my learning experience in data analytics using Power BI. The dashboard analyzes healthcare referral-to-treatment waiting times between 2018 and 2021.
@@ -22,4 +23,4 @@ Data modeling
 DAX (for calculated measures such as averages and medians)
 Data visualization and dashboard design
 
-📸 Dashboard Preview : 
+📸 Dashboard Preview : https://github.com/Sanyabhucker/Healthcare-Dashboard-/blob/main/hospital_dashboard.png
