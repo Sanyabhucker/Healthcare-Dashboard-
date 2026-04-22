@@ -1,4 +1,4 @@
-<img width="1187" height="747" alt="hospital_dashboard" src="https://github.com/user-attachments/assets/cb5858b7-a257-498b-b6a5-ca1fc5ea39f0" />Healthcare Waiting Time Dashboard
+Healthcare Waiting Time Dashboard
 
 📊 Project Overview
 
@@ -27,4 +27,5 @@ DAX (for calculated measures such as averages and medians),
 Data visualization and dashboard design
 
 📸 Dashboard Preview : https://github.com/Sanyabhucker/Healthcare-Dashboard-/blob/main/hospital_dashboard.png
+<img width="1187" height="747" alt="hospital_dashboard" src="https://github.com/user-attachments/assets/cb5858b7-a257-498b-b6a5-ca1fc5ea39f0" />
 
